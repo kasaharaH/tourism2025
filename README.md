@@ -1,2 +1,6 @@
 # tourism2025
 2025年観光情報学コード
+
+tourism8_20251119_class.ipynb
+Geolifeデータセットの読込・可視化
+Geo系ライブラリのＯＳ依存性を避けるため、numpy+pandas+matplotlibで構成したもの
