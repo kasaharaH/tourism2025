@@ -1,6 +1,12 @@
 # tourism2025
 2025年観光情報学コード
 
+plateau20251105.ipynb
+3D都市モデルの可視化
+江戸川区の浸水シミュレーション
+
 tourism8_20251119_class.ipynb
 Geolifeデータセットの読込・可視化
+Colaboでの利用が前提
+geolifeはDLしてGoogle drive上に保存しておくこと
 Geo系ライブラリのＯＳ依存性を避けるため、numpy+pandas+matplotlibで構成したもの
